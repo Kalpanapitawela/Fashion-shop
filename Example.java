@@ -294,10 +294,12 @@ class Example{
 				break;
 				
 			case 4:
+				b1=false;
 				System.out.print("");
 				break;
 				
 			case 5:
+				b1=false;
 				System.out.print("");
 				break;
 				
